@@ -1,10 +1,7 @@
 package com.example.ak.apm.apmdemo;
 
 import java.util.Date;
-
-
 import jakarta.persistence.Id;
-
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 
