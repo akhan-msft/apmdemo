@@ -1,0 +1,8 @@
+###
+//send form data
+POST http://localhost:8080/apmdemo/employee
+content-type: application/x-www-form-urlencoded
+
+name=Adi Khan6&position=Principal Architect&startDate=2024-01-01
+
+###
